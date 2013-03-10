@@ -2,3 +2,5 @@ hello2, 1st commit
 hello2, 2nd commit before merge
 
 hello2, 3rd commit before merge
+
+hello2, 4th commit before merge; we'll try to merge master into this (after rebase-into-staging2 has been rebased into master)
