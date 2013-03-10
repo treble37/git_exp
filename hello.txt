@@ -2,3 +2,5 @@ hello, 1st commit
 hello, 2nd commit before rebase
 
 hello, 3rd commit before rebase
+
+hello, 4th commit before rebase on rebase-into-staging2
