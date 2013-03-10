@@ -1,2 +1,4 @@
 hello2, 1st commit
-hello, 2nd commit before merge
+hello2, 2nd commit before merge
+
+hello2, 3rd commit before merge
